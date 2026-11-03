@@ -1,0 +1,21 @@
+﻿# UTF-8 with BOM. Example translation override. Values must be single words.
+Number = "야하";
+Negative = "이";
+Print = "미이이야하";
+Equal = "푸루";
+Less = "푸루루";
+Greater = "푸루루루";
+Add = "푸릿";
+Subtract = "푸리릿";
+Multiply = "푸리리릿";
+Divide = "푸리리리릿";
+Return = "푸루야";
+BlockStart = "하!";
+BlockEnd = "하?";
+FunctionStart = "우라-야하!";
+FunctionPrefix = "하";
+FunctionUnit = "아";
+FunctionDeclSuffix = "!";
+FunctionEndSuffix = "?";
+FunctionCallSuffix = "-";
+Assignment = "미야아아";
